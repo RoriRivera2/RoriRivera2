@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="coding pixel art header" />
 
-  <h1>¡Hola mundo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Soy Rori Rivera</h1>
+  <h1>¡Hola mundo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Soy Robinson Rivera</h1>
   
   <h3>Desarrollador Web | Creador de Soluciones SaaS 🚀</h3>
 
@@ -12,13 +12,13 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+    <a href="https://www.linkedin.com/in/robinson-rivera-rori?" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:tuemail@ejemplo.com">
+    <a href="mailto:roririvera@roririvera.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://tuweb.com" target="_blank">
+    <a href="https://roririvera.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-20232a?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" alt="Portfolio" />
     </a>
   </p>
@@ -28,7 +28,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyberpunk Coding Setup" />
 </div>
 
-### 🛠️ Mi Arsenal Tecnológico
+### 🛠️ Languages and Tools
 
 **Frontend & Frameworks**
 <div align="left">
